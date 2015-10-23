@@ -1,6 +1,6 @@
 
 <?php
-/*editxed by raman asd */
+/*editxaed by raman asd */
 /*
 EDIT.PHP
 Allows user to edit specific entry in database
